@@ -1,5 +1,8 @@
 # git-xlsx-textconv - git text converter for xlsx file
 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d184cb3906f34e95922d31c066cb92e1)](https://www.codacy.com/app/masataka0227/git-xlsx-textconv?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ma3tk/git-xlsx-textconv&amp;utm_campaign=badger)
+
 git diff wrapper for xlsx file.
 
 <img src="http://t.co/5Epi6NXHZ5">
